@@ -2,7 +2,7 @@ number1=16
 number2= 7
 
 #equals to
-print (number1 ==number2)
+print (number1==number2)
 
 # not equal to
 print(number1!=number2)
@@ -55,4 +55,3 @@ print(letter1 in words)
 print(letter1 not in words)
 
 print(number in numbers)
-
