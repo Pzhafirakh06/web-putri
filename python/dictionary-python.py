@@ -27,4 +27,3 @@ print(student1)
 
 student1.popitem()
 print(student1)
-
