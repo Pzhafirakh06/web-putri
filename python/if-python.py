@@ -21,5 +21,3 @@ elif grade  == "C":
    print("Good luck next time!")
 else:
   print("Wrong input")
-  
-  
